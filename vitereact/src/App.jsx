@@ -1,11 +1,16 @@
-
+import Jd from "./jd"
 
 function App() {
 
 
   return (
+   <>
+    <Jd/>
+    <h3>motu patlu</h3>
+    <p>hhhhhh</p>
+   </>
    
-   <h1>hi hello welcom on react</h1>
+   
   )
 }
 
